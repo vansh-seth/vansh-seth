@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **AI**
 
-- 💬 Ask me about **React, Node Js**
+- 💬 Ask me about **React, Node Js, DSA, OOPS**
 
 - 📫 How to reach me **via mail sethvansh2004@gmail.com**
 
