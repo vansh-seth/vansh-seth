@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML or web development projects**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **AI/Ml**
 
 - 💬 Ask me about **React, Node Js, DSA, OOPS**
 
