@@ -49,3 +49,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-seth&" alt="vansh-seth" /></p>
 </br>
+
+![Snake animation](https://github.com/vansh-seth/github-contribution-grid-snake.svg)
