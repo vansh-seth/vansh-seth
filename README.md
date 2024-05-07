@@ -41,8 +41,12 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh-seth&show_icons=true&locale=en&layout=compact" alt="vansh-seth" /></p>
+<div>
+  <a href="https://github.com/vansh-seth">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-seth&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh-seth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-seth&" alt="vansh-seth" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh-seth&show_icons=true&locale=en" alt="vansh-seth" /></p>
+</br>
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
