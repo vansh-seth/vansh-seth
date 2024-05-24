@@ -2,7 +2,7 @@
 <h3 align="center">Bridging Frontend & Backend Realms | Passionate about AI/ML Innovations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-seth&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-seth" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh-seth&column=-1" alt="vansh-seth" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh-seth&column=-1&theme=onedark" alt="vansh-seth" /></a> </p>
 
 <div align="center">
   
