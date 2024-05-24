@@ -34,11 +34,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=node.js,github,python,javascript,express,mongodb,firebase,cpp,c,java,linux,photoshop,bootstrap,discord,tailwind"/><br>
-    <img src="https://skillicons.dev/icons?i=react,mysql,azure,html,css,vscode,figma,git,bash,matlab,php,next,tensorflow,gcp,npm,octave,ubuntu,windows"/><br>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-      <a href="https://simpy.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/SimPy_logo.svg/1920px-SimPy_logo.svg.png" alt="Simpy" width="40" height="40"/> </a>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb,firebase,cpp,c,java,linux,photoshop,bootstrap,discord,tailwind,react,mysql,azure,html,css,vscode,figma,git,bash,matlab,php,next,tensorflow,gcp,npm,octave,ubuntu,windows,anaconda,powershell"/><br/>
 </div>
 
 <br/>
