@@ -52,7 +52,7 @@
 <div align='center'>
   <img width=390 src="https://streak-stats.demolab.com/?user=vansh-seth&count+private=true&theme=react&boarder_radius=10" alt="streak stats"/>
   <a href="https://github.com/vansh-seth">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-seth&layout=compact&langs_count=16&theme=dracula"/></br>
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-seth&layout=compact&langs_count=16&theme=dracula"/></br>
   </a>
 </div>
 
